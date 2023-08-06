@@ -7,18 +7,18 @@
 
 
 <h2 align="center">
-  <img src="https://github.com/afrahman23/wifikampus-v01/blob/master/images/v01-login-notif.jpg" alt="Skkenario 01" width="100%">
+  <img src="https://github.com/afrahman23/wifikampus-v01/blob/main/images/v01-login-notif.jpg" alt="Skkenario 01" width="100%">
 </h2>
 
 ---
 
-## Features
+## Goal
 
-⚡️ kirim pesan 'silahkan berselancar'
+⚡️ setelah sukses login, muncul pesan 'silahkan berselancar'
 
 
 ## Support
-⚡️ Mikrotik RouterOS
+⚡️ Mikrotik RouterOS, Guide [https://wiki.mikrotik.com/wiki/Manual:Customizing_Hotspot](https://wiki.mikrotik.com/wiki/Manual:Customizing_Hotspot)
 
-**To view a demo example**, **[http://wifikampus.petualang.net](http://wifikampus.petualang.net)**\
+To view a demo example, **[http://wifikampus.petualang.net](http://wifikampus.petualang.net)**
 ---
