@@ -1,5 +1,7 @@
 # Halaman Login Wi-Fi Kampus Kita ⚡️ 
 
+📝 It's not made to look good, but tries to focus on solving problems step by step
+
 ## Skenario (phase 01) - versi.01 (06Aug2023)
 
 ⚡️ login.html : halaman yang akan ditampilkan untuk menanyakan NIM=username & dapat berselancar internet via hotspot. 
