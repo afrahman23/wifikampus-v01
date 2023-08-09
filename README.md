@@ -1,12 +1,11 @@
-# Halaman Login Wi-Fi Kampus Kita ⚡️ 
+# Sistem Login Wi-Fi Kampus Kita ⚡️ 
 
 📝 It's not made to look good, but tries to focus on solving problems step by step
 
 ## Skenario (phase 01) - versi.01 (06Aug2023)
 
-⚡️ login.html : halaman yang akan ditampilkan untuk menanyakan NIM=username & dapat berselancar internet via hotspot. 
-⚡️ md5.js : file mikrotik, kode javascript untuk hashing password MD5.
-
+- [login.html](https://github.com/afrahman23/wifikampus-v01/blob/main/login.html) : halaman yang akan ditampilkan untuk menanyakan NIM=username & dapat berselancar internet via hotspot. 
+- [md5.js](https://github.com/afrahman23/wifikampus-v01/blob/main/md5.js) : file mikrotik, kode javascript untuk hashing password MD5.
 
 <h2 align="center">
   <img src="https://github.com/afrahman23/wifikampus-v01/blob/main/images/v01-login-notif.jpg" alt="Skkenario 01" width="100%">
